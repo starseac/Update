@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<update>
+  <par name="appVersion" value="1.0"></par>
+  <par name="appDate" value="2016-08-10"></par>
+  <par name="appPath" value="C:\\QJDCtest"></par>
+  <par name="appName" value="OVIT.RightInvestigation.Desktop.exe"></par>  
+
+  <par name="updatePath" value="C:\不动产登记\qjdc_updateServer"></par>
+  <par name="updateIndexFile" value="updateInfo.xml" ></par> 
+  <par name="lastupdateDate" value="2016-8-10"></par>
+  <par name="lastupdateVersion" value="1.0"></par>
+  
+</update>
